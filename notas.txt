@@ -1,0 +1,6 @@
+npm init -y
+npm install express --save
+
+app luego route luego controller luego views (index.ejs)
+
+modulo 5 express clase 20 primera vista
